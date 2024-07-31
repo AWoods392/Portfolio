@@ -1,12 +1,12 @@
 ## Portfolio
 This portfolio is for TECH I.S.'s students. Learn about HTML / CSS / Bootstap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
 
-[View Demo Website](https://hickcoder.github.io/Portfolio/)
+[View Demo Website](https://andreww-portfolio.netlify.app/)
 
 
+![Screenshot 2024-07-30 203058](https://github.com/user-attachments/assets/0ed5a838-2306-4fb0-abd1-5536270c8f83)
 
 
-<img width="500" alt="Screen Shot 2024-07-24 at 1 45 11 AM" src="https://github.com/user-attachments/assets/2a36f33e-678f-4230-abda-0f036c10b733">
 
 
 
